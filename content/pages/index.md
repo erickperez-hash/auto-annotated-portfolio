@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I Am Erick Perez an ai developer, digital artist, consultant and fix poor
-      vibe coding.
+      I Am Erick Perez an ai developer, digital artist, consultant and fixer of
+      poor vibe coding.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info—I’m sharing this with ya’ll to impress upon you all the
+      hard work I’ve done in the past few years. Once you’re impressed, you can
+      continue to scroll down to see more details and credentials about me.
     styles:
       self:
         height: auto
